@@ -1,0 +1,63 @@
+[
+  {
+    "category": "TV",
+    "price": 15000,
+    "manufacturer": "Sony",
+    "createdAt": "2020"
+  },
+  {
+    "category": "Laptop",
+    "price": 70000,
+    "manufacturer": "MSI",
+    "createdAt": "2019"
+  },
+  {
+    "category": "Tablet",
+    "price": 20000,
+    "manufacturer": "Apple",
+    "createdAt": "2018"
+  },
+  {
+    "category": "Monitor",
+    "price": 8000,
+    "manufacturer": "Bezel",
+    "createdAt": "2022"
+  },
+  {
+    "category": "Monitor",
+    "price": 14000,
+    "manufacturer": "ASUS",
+    "createdAt": "2021"
+  },
+  {
+    "category": "Fan",
+    "price": 1500,
+    "manufacturer": "Standard",
+    "createdAt": "2019"
+  },
+  {
+    "category": "Laptop",
+    "price": 50000,
+    "manufacturer": "ASUS",
+    "createdAt": "2016"
+  },
+  {
+    "category": "Air Conditioner",
+    "price": 25000,
+    "manufacturer": "LG",
+    "createdAt": "2020"
+  },
+  {
+    "category": "Air Conditioner",
+    "price": 30000,
+    "manufacturer": "Carrier",
+    "createdAt": "2019"
+  },
+  {
+    "category": "Smartphone",
+    "price": 10500,
+    "manufacturer": "Samsung",
+    "createdAt": "2022"
+  }
+
+]
